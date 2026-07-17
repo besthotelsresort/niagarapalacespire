@@ -1,0 +1,2 @@
+# niagarapalacespire
+Static site: niagarapalacespire
